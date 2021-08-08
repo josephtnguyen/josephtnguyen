@@ -1,16 +1,13 @@
-### Hi there 👋
+## About Me
 
-<!--
-**josephtnguyen/josephtnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack developer with a background in mathematics and a passion for learning.  Outside of web development, I enjoy tennis :tennis:, gaming :video_game:, and eating good food :rice:.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Languages/Frameworks: JavaScript, React, Node.js, PostgreSQL, CSS3, HTML5, Python, Verilog
+
+:wrench: Tools: Bootstrap, Socket.IO, npm, Git, HTTPie, Restful APIs, JIRA, Confluence, JAWS, Xilinx Vivado
+
+## Reach Out To Me
+
+Find me on [LinkedIn](https://www.linkedin.com/in/josephtringuyen/)!
